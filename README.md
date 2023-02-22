@@ -5,7 +5,7 @@ It is described in the Paper: [The DeepCAR Method: Forecasting Time-Series Data 
 
 # Simulations
 
-In Simulation_Football_Data.ipynb we give an example with our DeepCAR method using a [football dataset]. And in Mosum_Football_Data.ipynb you can find the [MOSUM method] that was applied to this football dataset and provides the change points for our method.
+In `Simulation_Football_Data.ipynb` we give an example with our DeepCAR method using a [football dataset]. And in `Mosum_Football_Data.ipynb` you can find the [MOSUM method] that was applied to this football dataset and provides the change points for our method.
 
 # Repository authors
 
